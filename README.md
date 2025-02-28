@@ -1,1 +1,1 @@
-# SemEval2025-Task8-Word2winners
+# SemEval2025-Task7-Word2winners
